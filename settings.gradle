@@ -1,0 +1,6 @@
+rootProject.name = 'App3'
+
+include 'db'
+include 'service'
+include 'api'
+
